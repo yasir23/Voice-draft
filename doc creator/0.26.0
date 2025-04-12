@@ -1,4 +1,0 @@
-Requirement already satisfied: uvicorn in c:\users\hp\appdata\local\programs\python\python312\lib\site-packages (0.23.2)
-Requirement already satisfied: click>=7.0 in c:\users\hp\appdata\roaming\python\python312\site-packages (from uvicorn) (8.1.7)
-Requirement already satisfied: h11>=0.8 in c:\users\hp\appdata\local\programs\python\python312\lib\site-packages (from uvicorn) (0.14.0)
-Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python312\lib\site-packages (from click>=7.0->uvicorn) (0.4.6)
